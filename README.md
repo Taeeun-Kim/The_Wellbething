@@ -1,6 +1,6 @@
 # The Wellbething
 
-A collection of graph templates available in SwiftUI.
+A smart device that tells you if you've consumed more than the recommended amount of water per day.
 
 ### Used tools and techniques
 
@@ -9,6 +9,13 @@ A collection of graph templates available in SwiftUI.
 - 3D Printer
 - Tinkercad
 - Final Cut Pro
+
+### Function
+
+- Temperature
+- Humidity
+- Water Consumption
+- Air Quality
 
 ### Documentation
 
